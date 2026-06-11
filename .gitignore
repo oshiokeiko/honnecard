@@ -1,0 +1,9 @@
+# 社内向けドキュメントは同期しない
+CLAUDE.md
+prd_honnecard.md
+
+# 作業用ファイルは同期しない
+tasks/
+index.html.bak
+.claude/
+.DS_Store
